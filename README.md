@@ -1,6 +1,6 @@
 # Heyy, I am Tex. 👋
 
-I am the creator, owner and primary leader for the AzerPUG Gaming Community.
+I am the creator, owner and primary leader for the AzerPUG Gaming Community.<br />
 We Raid and create AddOns for World of Warcraft, we Twitch stream, make YouTube videos.
 
 # AzerPUG Links
