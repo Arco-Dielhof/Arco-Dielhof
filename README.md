@@ -2,7 +2,8 @@
 
 I am the creator, owner and primary leader for the AzerPUG Gaming Community.<br />
 We Raid and create AddOns for World of Warcraft, we Twitch stream, make YouTube videos.
-
+<br />
+<br />
 # AzerPUG Links
 <a href="http://www.azerpug.com" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Website%20Panel.png" width="100" /></a><a href="http://www.azerpug.com/discord" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Discord%20Panel.png" width="100" /></a>
 <br />
