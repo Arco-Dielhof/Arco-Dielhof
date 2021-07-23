@@ -7,3 +7,5 @@
 ### Great Barrier Reef
 ### Great Wall of China
 ### Colloseum
+### Salar de Uyuni (Rain Season)
+### Salar de Uyuni (Dry Season)
