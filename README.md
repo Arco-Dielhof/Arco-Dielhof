@@ -8,8 +8,7 @@ Some of our Achievements as a Gaming Community and Softweare Company:
 - Several of our AddOns and Apps promoted by Twitch Streamers, YouTubers, Bloggers and media articles.
 - Acknowledged by several Game Developers and Gaming Companies, that provided us with Alphas and Betas so we can start developping earlier and quicker.
 
-
-
+# Our Popular Game Apps
 | [Paldeck Enhanced](https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced?utm_campaign=Page&utm_medium=GH) | [D4 Interactive Map](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH) |
 | :----: | :----: |
 | *Palworld* | *Diablo IV* |
