@@ -1,5 +1,5 @@
 # Heyy, I am Tex. 👋
-CEO and Primary Leader of the Software Company and Gaming Community; [AzerPUG](http://www.azerpug.com).
+CEO and Primary Leader of the Software Company and Gaming Community; [AzerPUG](http://www.azerpug.com){:target="_blank"}.
 We help people enjoy games more by teaching them how to play or get better at games.
 Some of our Achievements as a Gaming Community and Softweare Company:
 - Provided Ahead of the Curve Achievement (World of Warcraft) for free to over 10k players, spread out over 3 expansions and 11 raids.
