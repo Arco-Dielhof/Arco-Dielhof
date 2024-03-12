@@ -1,19 +1,11 @@
 # Heyy, I am Tex. 👋
+CEO and Primary Leader of the Software Company and Gaming Community; [AzerPUG](http://www.azerpug.com).
+We help people enjoy games more by teaching them how to play or get better at games.
+Some of our Achievements as a Gaming Community and Softweare Company:
+- Provided Ahead of the Curve Achievement (World of Warcraft) for free to over 10k players, spread out over 3 expansions and 11 raids.
+- Uploaded the first (and in most cases still most popular) Overwolf app for [Diablo IV](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH), [Bladur's Gate 3](https://www.overwolf.com/app/AzerPUG-Baldurs_Map?utm_campaign=Page&utm_medium=GH), [Ark](https://www.overwolf.com/app/AzerPUG-ASA_Companion?utm_campaign=Page&utm_medium=GH), [Palworld](https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced?utm_campaign=Page&utm_medium=GH) and [Call of Duty](https://www.overwolf.com/app/AzerPUG-CoD_Completionist?utm_campaign=Page&utm_medium=GH).
+- A quarter million unique downloads for our World of Warcraft software for Raid Team Building: [WoW Info](https://www.overwolf.com/app/AzerPUG-WoW_Info?utm_campaign=Page&utm_medium=GH).
+- Several of our AddOns and Apps promoted by Twitch Streamers, YouTubers, Bloggers and media articles.
+- Acknowledged by several Game Developers and Gaming Companies, that provided us with Alphas and Betas so we can start developping earlier and quicker.
 
-I am the creator, owner and primary leader for the AzerPUG Gaming Community.<br />
-We Raid and create AddOns for World of Warcraft, Twitch stream, make YouTube videos.
-<br />
-<br />
-# AzerPUG Links
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Website%20Panel%20Small.png "")](http://www.azerpug.com "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Discord%20Panel%20Small.png "")](http://www.azerpug.com/discord "")  
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitch%20Panel%20Small.png "")](http://www.twitch.tv/AzerPUG "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/YouTube%20Panel%20Small.png "")](https://www.youtube.com/channel/UClMRIcLGE_0SODpOrP8AVlQ "")  
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/CurseForge%20Panel%20Small.png "")](https://www.curseforge.com/members/azerpug/projects "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/GitHub%20Panel%20Small.png "")](https://github.com/AzerPUG "")  
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Merch%20Panel%20Small.png "")](https://shop.spreadshirt.net/azerpug/ "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Fiverr%20Panel%20Small.png "")](https://www.fiverr.com/arcodielhof "")  
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Instagram%20Panel%20Small.png "")](https://www.instagram.com/azerpug/ "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitter%20Panel%20Small.png "")](https://twitter.com/azerpug "")  
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Patreon%20Panel%20Small.png "")](https://www.patreon.com/AzerPUG "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/PayPal%20Panel%20Small.png "")](https://www.paypal.com/donate?hosted_button_id=V4M8A5PPJWZLE "")
+# AzerPUG Software
